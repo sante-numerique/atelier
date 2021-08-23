@@ -19,4 +19,4 @@ Title of the workshop: **PyGeno, the python module for handling omics data (geno
 
 Biography of Tariq Daouda: Tariq Daouda completed his PhD under the supervision of Dr. Claude Perreault and Dr. Sébastien Lemieux at IRIC. Trained in machine learning and bioinformatics, he has developed open source libraries. For more details, visit the Web site : https://www.tariqdaouda.com/
 
-Biography of Albert Feghaly: Albert works at IRIC's bioinformatics platform. A good proportion of his tasks are to develop and maintain open source projects.
+Biography of Albert Feghaly: Trained as a biologist, he quickly converted to bioinformatics. Albert is now a member of the IRIC Bioinformatics Platform team. He develops and maintains open source projects to support the academic community and to equip researchers.
