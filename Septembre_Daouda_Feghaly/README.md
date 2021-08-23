@@ -7,7 +7,7 @@ Titre de l'atelier : **PyGeno, le module python pour manipuler les données omiq
 
 Biographie de Tariq Daouda : Tariq Daouda a réalisé son doctorat sous la supervision du Dr Claude Perreault et du Dr Sébastien Lemieux à l'IRIC. Formé à l'apprentissage automatique et à la bioinformatique, Il a développé des bibliothèques open source.Pour plus d'informations sur Tariq Daouda, visitez son site web : https://www.tariqdaouda.com/
 
-Biographie d'Albert Feghaly : Albert travaille à la plateforme de bioinformatique de l’IRIC. Un bonne proportion de ses tâches consiste à développer et maintenir des projets open source
+Biographie d'Albert Feghaly : Biologiste de formation, il s’est rapidement converti à la bioinformatique. Albert maintenant fait partie de l'équipe de la plateforme de bioinformatique de l’IRIC. Il y développe et maintient des projets open source pour soutenir la communauté académique et outiller les chercheurs.
 
 -------------------------------------------------------------------------------
 
