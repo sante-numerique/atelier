@@ -29,18 +29,14 @@ Fall 2021
 
 1. September 16, 2021 <br />   
     Guests : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC <br />   
-    Title of the workshop : **PyGeno, le module python pour manipuler les données omiques (génomique, transcriptomique et protéomique)** <br />  
     
 2. Octobre 14, 2021 <br />   
     Invités : *Prof. Jian Tang* <br />   
-    Titre de l'atelier : À venir <br />   
     
 3. Novembre 18, 2021 <br />   
-    Invités : *Prof. Julien Cohen-Adad* <br />   
-    Titre de l'atelier : À venir <br />   
+    Invités : *Prof. Julien Cohen-Adad*, Polytechnique Montreal <br />   
     
 4. December 9, 2021 <br />   
     Invités : *Prof. Pierre Bellec* <br />   
-    Titre de l'atelier : À venir <br /> 
 
 For questions : code_at_sante@ivado.ca
