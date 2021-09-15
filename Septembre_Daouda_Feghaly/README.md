@@ -10,22 +10,22 @@ Titre de l'atelier : **PyGeno, le module python pour manipuler les données omiq
 ## Instructions :
 Afin de préparer l’atelier Code@Santé auquel vous allez participer et de profiter un maximum de la session de live coding, voici quelques instructions qui pourront vous seront utiles.
  
-1. Si vous utilisez votre propre ordinateur: <br/>  
+A. Si vous utilisez votre propre ordinateur: <br/>  
       Assurez-vous d’avoir une version de python >= 3.0 (https://www.python.org/downloads/). <br/>  
       Une version récente de jupyter-notebook vous sera également utile si vous voulez saisir les lignes de code proposées dans cet atelier (https://jupyter.org/) une à une.
 
-2. Si vous voulez utiliser un notebook google colab comme nous le feront pendant l’atelier, il vous faudra une adresse gmail active. Vous pouvez alors simplement vous identifier (https://colab.research.google.com/notebooks/intro.ipynb). <br/>  
+B. Si vous voulez utiliser un notebook google colab comme nous le feront pendant l’atelier, il vous faudra une adresse gmail active. Vous pouvez alors simplement vous identifier (https://colab.research.google.com/notebooks/intro.ipynb). <br/>  
       *Notez que la version gratuite de google colab ne vous permet pas de conserver vos environnements actifs plus de 20h. Cela signifie que dès que vous fermez votre notebook ou que votre session est interrompue, vous perdez les installations qui y sont associées. Vous devrez donc procéder à une nouvelle installation de PyGeno lors de votre reconnexion.*
  
 Que vous ayez adopté une solution locale ou en ligne, l’utilisation de PyGeno nécessite de télécharger un génome (ici le génome humain) et les annotations qui y sont associées. Ce processus prend habituellement 20 mn et occupe un espace disque de quelques GigaBases.
  
 L’atelier débutant par une présentation de 30mn, vous aurez le temps de faire l’installation de PyGeno pendant cette introduction.
  
-Pour cela, vous devrez d’abord procéder à l’installation du package :
+Pour cela, vous devrez d’abord procéder à l’installation du package (alternatives à pip, voir https://github.com/tariqdaouda/pyGeno):
  
                 pip install pygeno
  
-Il existe des alternatives à pip (voir https://github.com/tariqdaouda/pyGeno)
+
  
 Puis installer les bases de données de la dernière version du génome humain :
  
