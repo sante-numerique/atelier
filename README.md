@@ -1,7 +1,7 @@
 # code_at_sante
 Bienvenue à Code@Santé
 
-(English version will follow)
+*(English version will follow)*
 
 Le Consortium Santé Numérique et IVADO offrent une série d'ateliers Code@santé. Ces ateliers ont pour but de favoriser le partage de connaissances par l'utilisation et la découverte de modules et de « packages » utiles à la communauté en santé numérique.  
 
