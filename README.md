@@ -7,7 +7,7 @@ Le Consortium Santé Numérique et IVADO offrent une série d'ateliers Code@sant
 
 Face à la popularité grandissante des concepts de code ouvert et de partage d’outils existants, ces ateliers vont faciliter la réutilisation de code et d’outils développés par des groupes de recherche à grands impact, des étudiantes et étudiants dans tous les domaines touchant la santé numérique, ainsi que les acteurs de l’industrie.  
 
-Ces experts, avec l’assistance de l’équipe d’IVADO et du Consortium, seront disponibles pendant une heure pour échanger de manière concrète sur leurs modules/packages et répondre à vos questions concernant leur réutilisation. Profitez de la disponibilité et de l’accessibilité de ces experts et venez échanger directement avec eux. C’est une opportunité pour mieux comprendre leurs outils et les méthodes employées, ainsi que pour (échanger avec la communauté et les experts.   
+Ces experts, avec l’assistance de l’équipe d’IVADO et du Consortium, seront disponibles pendant une heure pour échanger de manière concrète sur leurs modules/packages et répondre à vos questions concernant leur réutilisation. Profitez de la disponibilité et de l’accessibilité de ces experts et venez échanger directement avec eux. C’est une opportunité pour mieux comprendre leurs outils et les méthodes employées, ainsi que pour échanger avec la communauté et les experts.   
  
 
 Automne 2021
