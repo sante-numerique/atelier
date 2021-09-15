@@ -5,16 +5,16 @@ Le Consortium Santé Numérique et IVADO offrent une série d'ateliers Code@sant
 
 Automne 2021
 
-1 -  16 septembre 2021 <br />   
+1. 16 septembre 2021 <br />   
     Invités : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC <br />   
     
-2 -  14 octobre 2021 <br />   
+2. 14 octobre 2021 <br />   
     Invités : *Prof. Jian Tang* <br />   
     
-3 -  18 novembre 2021 <br />   
+3. 18 novembre 2021 <br />   
     Invités : *Prof. Julien Cohen-Adad*, Polytechnique Montréal <br />   
     
-4 -  9 décembre 2021 <br />   
+4. 9 décembre 2021 <br />   
     Invités : *Prof. Pierre Bellec* <br />   
 
 Pour toutes questions : code_at_sante@ivado.ca
@@ -27,16 +27,12 @@ The Digital Health Consortium and IVADO are offering a series of Code @ santé w
 
 Fall 2021
 
-1 -  September 16, 2021 <br />   
-    Guests : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC <br />   
+1. September 16, 2021 - Guests : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC <br />   
     
-2 -  Octobre 14, 2021 <br />   
-    Invités : *Prof. Jian Tang* <br />   
+2. Octobre 14, 2021 - Guests : *Prof. Jian Tang* <br />   
     
-3 -  Novembre 18, 2021 <br />   
-    Invités : *Prof. Julien Cohen-Adad*, Polytechnique Montreal <br />   
+3. Novembre 18, 2021 - Guests : *Prof. Julien Cohen-Adad*, Polytechnique Montreal <br />   
     
-4 -  December 9, 2021 <br />   
-    Invités : *Prof. Pierre Bellec* <br />   
+4. December 9, 2021  - Guests : *Prof. Pierre Bellec* <br />   
 
 For questions : code_at_sante@ivado.ca
