@@ -27,12 +27,12 @@ The Digital Health Consortium and IVADO are offering a series of Code @ santé w
 
 Fall 2021
 
-1. September 16, 2021 - Guests : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC <br />   
+1. September 16, 2021 - <tab id=t1>Guests : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC <br />   
     
-2. Octobre 14, 2021 - Guests : *Prof. Jian Tang* <br />   
+2. Octobre 14, 2021 - <tab id=t2>Guests : *Prof. Jian Tang* <br />   
     
-3. Novembre 18, 2021 - Guests : *Prof. Julien Cohen-Adad*, Polytechnique Montreal <br />   
+3. Novembre 18, 2021 - <tab id=t3>Guests : *Prof. Julien Cohen-Adad*, Polytechnique Montreal <br />   
     
-4. December 9, 2021  - Guests : *Prof. Pierre Bellec* <br />   
+4. December 9, 2021  - <tab id=t4>Guests : *Prof. Pierre Bellec* <br />   
 
 For questions : code_at_sante@ivado.ca
