@@ -10,11 +10,11 @@ Titre de l'atelier : **PyGeno, le module python pour manipuler les données omiq
  
 Afin de préparer l’atelier Code@Santé auquel vous allez participer et de profiter un maximum de la session de live coding, voici quelques instructions qui pourront vous seront utiles.
  
-1. Si vous utilisez votre propre ordinateur: <>
-      Assurez-vous d’avoir une version de python >= 3.0 (https://www.python.org/downloads/). <br/>
+1. Si vous utilisez votre propre ordinateur: <br/>  
+      Assurez-vous d’avoir une version de python >= 3.0 (https://www.python.org/downloads/). <br/>  
       Une version récente de jupyter-notebook vous sera également utile si vous voulez saisir les lignes de code proposées dans cet atelier (https://jupyter.org/) une à une.
 
-2. Si vous voulez utiliser un notebook google colab comme nous le feront pendant l’atelier, il vous faudra une adresse gmail active. Vous pouvez alors simplement vous identifier (https://colab.research.google.com/notebooks/intro.ipynb). <br/>
+2. Si vous voulez utiliser un notebook google colab comme nous le feront pendant l’atelier, il vous faudra une adresse gmail active. Vous pouvez alors simplement vous identifier (https://colab.research.google.com/notebooks/intro.ipynb). <br/>  
       *Notez que la version gratuite de google colab ne vous permet pas de conserver vos environnements actifs plus de 20h. Cela signifie que dès que vous fermez votre notebook ou que votre session est interrompue, vous perdez les installations qui y sont associées. Vous devrez donc procéder à une nouvelle installation de PyGeno lors de votre reconnexion.*
  
 Que vous ayez adopté une solution locale ou en ligne, l’utilisation de PyGeno nécessite de télécharger un génome (ici le génome humain) et les annotations qui y sont associées. Ce processus prend habituellement 20 mn et occupe un espace disque de quelques GigaBases.
@@ -37,13 +37,20 @@ Il se peut que l’installation échoue. Dans ce cas, il suffit de relancer la l
  
 Le code qui sera analysé en détail est fourni en pièce jointe (km_target_generator.py) ainsi que la présentation du problème associé (CodeSante_Laiua_16Sep2021_AF.pptx).
  
- 
- 
-Hi everyone,
+-------------------------------------------------------------------------------
 
+Fall 2021
+Workshop # 1 - September 16, 2021
+
+Guests :  *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC
+
+Title of the workshop: **PyGeno, the python module for handling omics data (genomics, transcriptomics and proteomics)**
 To be sure that you take full advantage of the workshop, please follow these instructions:
-If you use your personal computer Python >= 3.0 should be installed (https://www.python.org/downloads/). We advise you to install a version of jupyter notebook (https://jupyter.org/)
-An alternative is to use google colab, an online notebook which allows you to execute a python3 script line by line. First, you have to create a gmail address. Then, you have to login (https://colab.research.google.com/notebooks/intro.ipynb). Please keep in mind that your session is active for 20 hours. If you log out, you will have to start from scratch.
+
+1. If you use your personal computer: <br/>  
+   Python >= 3.0 should be installed (https://www.python.org/downloads/). 
+   We advise you to install a version of jupyter notebook (https://jupyter.org/)
+   An alternative is to use google colab, an online notebook which allows you to execute a python3 script line by line. *First, you have to create a gmail address. Then, you have to login (https://colab.research.google.com/notebooks/intro.ipynb). Please keep in mind that your session is active for 20 hours. If you log out, you will have to start from scratch.*
  
 In both cases, you have to download a human genome and associated annotations (> 3Gb of disk space needed). This process takes ~ 20 mn.
  
@@ -68,18 +75,9 @@ B.importRemoteGenome('GRCh38.98')
 Le code présenté se situe dans github: 
 https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Feghaly/km_target_generator.py
 
--------------------------------------------------------------------------------
 
-Fall 2021
-Workshop # 1 - September 16, 2021
 
-Guests :  *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC
 
-Title of the workshop: **PyGeno, the python module for handling omics data (genomics, transcriptomics and proteomics)**
-
-Biography of Tariq Daouda: Tariq Daouda completed his PhD under the supervision of Dr. Claude Perreault and Dr. Sébastien Lemieux at IRIC. Trained in machine learning and bioinformatics, he has developed open source libraries. For more details, visit the Web site : https://www.tariqdaouda.com/
-
-Biography of Albert Feghaly: Trained as a biologist, he quickly converted to bioinformatics. Albert is now a member of the IRIC Bioinformatics Platform team. He develops and maintains open source projects to support the academic community and to equip researchers.
 
 The shared code is available on github: 
 https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Feghaly/km_target_generator.py
