@@ -26,5 +26,5 @@ Biography of Tariq Daouda: Tariq Daouda completed his PhD under the supervision 
 
 Biography of Albert Feghaly: Trained as a biologist, he quickly converted to bioinformatics. Albert is now a member of the IRIC Bioinformatics Platform team. He develops and maintains open source projects to support the academic community and to equip researchers.
 
-The shared code is located on github: 
+The shared code is available on github: 
 https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Feghaly/km_target_generator.py
