@@ -35,7 +35,8 @@ B.importRemoteGenome('GRCh38.98')
  
 Il se peut que l’installation échoue. Dans ce cas, il suffit de relancer la ligne de commande.
  
-Le code qui sera analysé en détail est fourni en pièce jointe (km_target_generator.py) ainsi que la présentation du problème associé (CodeSante_Laiua_16Sep2021_AF.pptx).
+Le code qui sera analysé en détail est disponible dans github: 
+https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Feghaly/km_target_generator.py
  
 -------------------------------------------------------------------------------
 
@@ -71,15 +72,6 @@ import pyGeno.bootstrap as B
 B.importRemoteGenome('GRCh38.98')
  
      This step may fail. If this happens, simply rerun this part of the code.
- 
-     After the overview of pyGeno, we will focus on some some specific features of the package (km_target_generator.py). The background is detailed in CodeSante_Laiua_16Sep2021_AF.pptx.
-
-Le code présenté se situe dans github: 
-https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Feghaly/km_target_generator.py
-
-
-
-
 
 The shared code is available on github: 
 https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Feghaly/km_target_generator.py
