@@ -8,7 +8,7 @@ Invités : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC
 Titre de l'atelier : **PyGeno, le module python pour manipuler les données omiques (génomique, transcriptomique et protéomique)**
 
 ## Instructions :
-Afin de préparer l’atelier Code@Santé auquel vous allez participer et de profiter un maximum de la session de live coding, voici quelques instructions qui pourront vous seront utiles.
+Voici quelques instructions pour ce premier atelier.
  
 1. Si vous utilisez votre propre ordinateur: <br/>  
       Assurez-vous d’avoir une version de python >= 3.0 (https://www.python.org/downloads/). <br/>  
@@ -44,7 +44,7 @@ Guests :  *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC
 Title of the workshop: **PyGeno, the python module for handling omics data (genomics, transcriptomics and proteomics)**
 
 ## Instructions :
-To be sure that you take full advantage of the workshop, please follow these instructions:
+Please follow these instructions for the first workshop:
 
 1. If you use your personal computer: <br/>  
    Python >= 3.0 should be installed (https://www.python.org/downloads/). <br/>  
