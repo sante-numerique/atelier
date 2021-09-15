@@ -29,9 +29,9 @@ Il existe des alternatives à pip (voir https://github.com/tariqdaouda/pyGeno)
  
 Puis installer les bases de données de la dernière version du génome humain :
  
-from pyGeno.Genome import *
-import pyGeno.bootstrap as B
-B.importRemoteGenome('GRCh38.98')
+                from pyGeno.Genome import *
+                import pyGeno.bootstrap as B
+                B.importRemoteGenome('GRCh38.98')
  
 Il se peut que l’installation échoue. Dans ce cas, il suffit de relancer la ligne de commande.
  
@@ -68,11 +68,11 @@ Note that alternatives to pip exists (voir https://github.com/tariqdaouda/pyGeno
  
 Then install the last version of the human genome database :
  
-from pyGeno.Genome import *
-import pyGeno.bootstrap as B
-B.importRemoteGenome('GRCh38.98')
+                from pyGeno.Genome import *
+                import pyGeno.bootstrap as B
+                B.importRemoteGenome('GRCh38.98')
  
-     This step may fail. If this happens, simply rerun this part of the code.
+This step may fail. If this happens, simply rerun this part of the code.
 
 The shared code is available on github: 
 https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Feghaly/km_target_generator.py
