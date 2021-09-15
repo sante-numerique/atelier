@@ -29,11 +29,7 @@ Puis installer les bases de données de la dernière version du génome humain. 
                 from pyGeno.Genome import *
                 import pyGeno.bootstrap as B
                 B.importRemoteGenome('GRCh38.98')
- 
 
- 
-Le code qui sera analysé en détail est disponible dans github: 
-https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Feghaly/km_target_generator.py
  
 -------------------------------------------------------------------------------
 
@@ -69,7 +65,3 @@ Then install the last version of the human genome database. *This step may fail.
                 import pyGeno.bootstrap as B
                 B.importRemoteGenome('GRCh38.98')
  
-
-
-The shared code is available on github: 
-https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Feghaly/km_target_generator.py
