@@ -2,13 +2,68 @@
 Automne 2021
 Atelier # 1 - 16 septembre 2021
 
+*(English version will follow)*
+
 Invités : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC
 
 Titre de l'atelier : **PyGeno, le module python pour manipuler les données omiques (génomique, transcriptomique et protéomique)**
+ 
+Afin de préparer l’atelier Code@Santé auquel vous allez participer et de profiter un maximum de la session de live coding, voici quelques instructions qui pourront vous seront utiles.
+ 
+1. Si vous utilisez votre propre ordinateur: <>
+      Assurez-vous d’avoir une version de python >= 3.0 (https://www.python.org/downloads/). <br/>
+      Une version récente de jupyter-notebook vous sera également utile si vous voulez saisir les lignes de code proposées dans cet atelier (https://jupyter.org/) une à une.
 
-Biographie de Tariq Daouda : Tariq Daouda a réalisé son doctorat sous la supervision du Dr Claude Perreault et du Dr Sébastien Lemieux à l'IRIC. Formé à l'apprentissage automatique et à la bioinformatique, Il a développé des bibliothèques open source.Pour plus d'informations sur Tariq Daouda, visitez son site web : https://www.tariqdaouda.com/
+2. Si vous voulez utiliser un notebook google colab comme nous le feront pendant l’atelier, il vous faudra une adresse gmail active. Vous pouvez alors simplement vous identifier (https://colab.research.google.com/notebooks/intro.ipynb). <br/>
+      *Notez que la version gratuite de google colab ne vous permet pas de conserver vos environnements actifs plus de 20h. Cela signifie que dès que vous fermez votre notebook ou que votre session est interrompue, vous perdez les installations qui y sont associées. Vous devrez donc procéder à une nouvelle installation de PyGeno lors de votre reconnexion.*
+ 
+Que vous ayez adopté une solution locale ou en ligne, l’utilisation de PyGeno nécessite de télécharger un génome (ici le génome humain) et les annotations qui y sont associées. Ce processus prend habituellement 20 mn et occupe un espace disque de quelques GigaBases.
+ 
+L’atelier débutant par une présentation de 30mn, vous aurez le temps de faire l’installation de PyGeno pendant cette introduction.
+ 
+Pour cela, vous devrez d’abord procéder à l’installation du package :
+ 
+                pip install pygeno
+ 
+Il existe des alternatives à pip (voir https://github.com/tariqdaouda/pyGeno)
+ 
+Puis installer les bases de données de la dernière version du génome humain :
+ 
+from pyGeno.Genome import *
+import pyGeno.bootstrap as B
+B.importRemoteGenome('GRCh38.98')
+ 
+Il se peut que l’installation échoue. Dans ce cas, il suffit de relancer la ligne de commande.
+ 
+Le code qui sera analysé en détail est fourni en pièce jointe (km_target_generator.py) ainsi que la présentation du problème associé (CodeSante_Laiua_16Sep2021_AF.pptx).
+ 
+ 
+ 
+Hi everyone,
 
-Biographie d'Albert Feghaly : Biologiste de formation, il s’est rapidement converti à la bioinformatique. Albert maintenant fait partie de l'équipe de la plateforme de bioinformatique de l’IRIC. Il y développe et maintient des projets open source pour soutenir la communauté académique et outiller les chercheurs.
+To be sure that you take full advantage of the workshop, please follow these instructions:
+If you use your personal computer Python >= 3.0 should be installed (https://www.python.org/downloads/). We advise you to install a version of jupyter notebook (https://jupyter.org/)
+An alternative is to use google colab, an online notebook which allows you to execute a python3 script line by line. First, you have to create a gmail address. Then, you have to login (https://colab.research.google.com/notebooks/intro.ipynb). Please keep in mind that your session is active for 20 hours. If you log out, you will have to start from scratch.
+ 
+In both cases, you have to download a human genome and associated annotations (> 3Gb of disk space needed). This process takes ~ 20 mn.
+ 
+As the workshop will start with an overview of PyGeno, you can install the package and the genome database In the meantine.
+ 
+To install PyGeno :
+ 
+            pip install pygeno
+ 
+Note that alternatives to pip exists (voir https://github.com/tariqdaouda/pyGeno)
+ 
+Then install the last version of the human genome database :
+ 
+from pyGeno.Genome import *
+import pyGeno.bootstrap as B
+B.importRemoteGenome('GRCh38.98')
+ 
+     This step may fail. If this happens, simply rerun this part of the code.
+ 
+     After the overview of pyGeno, we will focus on some some specific features of the package (km_target_generator.py). The background is detailed in CodeSante_Laiua_16Sep2021_AF.pptx.
 
 Le code présenté se situe dans github: 
 https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Feghaly/km_target_generator.py
