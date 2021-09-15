@@ -11,6 +11,6 @@ The Digital Health Consortium and IVADO are offering a series of Code @ santé w
 
 Automne 2021
 
-1. Atelier # 1 - 16 septembre 2021 /n
+1. Atelier # 1 - 16 septembre 2021 \n
     Invités : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC
     Titre de l'atelier : **PyGeno, le module python pour manipuler les données omiques (génomique, transcriptomique et protéomique)**
