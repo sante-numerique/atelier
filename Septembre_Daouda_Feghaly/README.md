@@ -1,6 +1,5 @@
 
-## Automne 2021
-Atelier # 1 - 16 septembre 2021
+## Automne 2021 - Atelier # 1 - 16 septembre 2021
 
 *(English version will follow)*
 
@@ -41,8 +40,7 @@ https://github.com/sante-numerique/code_at_sante/blob/master/Septembre_Daouda_Fe
  
 -------------------------------------------------------------------------------
 
-## Fall 2021
-Workshop # 1 - September 16, 2021
+## Fall 2021 - Workshop # 1 - September 16, 2021
 
 Guests :  *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC
 
