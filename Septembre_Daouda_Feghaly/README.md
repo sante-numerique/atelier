@@ -48,9 +48,11 @@ Title of the workshop: **PyGeno, the python module for handling omics data (geno
 To be sure that you take full advantage of the workshop, please follow these instructions:
 
 1. If you use your personal computer: <br/>  
-   Python >= 3.0 should be installed (https://www.python.org/downloads/). 
+   Python >= 3.0 should be installed (https://www.python.org/downloads/). <br/>  
    We advise you to install a version of jupyter notebook (https://jupyter.org/)
-   An alternative is to use google colab, an online notebook which allows you to execute a python3 script line by line. *First, you have to create a gmail address. Then, you have to login (https://colab.research.google.com/notebooks/intro.ipynb). Please keep in mind that your session is active for 20 hours. If you log out, you will have to start from scratch.*
+
+2. An alternative is to use google colab, an online notebook which allows you to execute a python3 script line by line. <br/>  
+   *First, you have to create a gmail address. Then, you have to login (https://colab.research.google.com/notebooks/intro.ipynb). Please keep in mind that your session is active for 20 hours. If you log out, you will have to start from scratch.*
  
 In both cases, you have to download a human genome and associated annotations (> 3Gb of disk space needed). This process takes ~ 20 mn.
  
