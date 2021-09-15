@@ -1,5 +1,6 @@
 
-Le Consortium Santé Numérique et IVADO offrent une série d'ateliers Code@santé. Ces ateliers ont pour but de favoriser le partage de connaissances, l'utilisation et la découverte de modules et de « packages » utiles à la communauté en santé numérique.
+Automne 2021
+Atelier 1 - 16 septembre 2021
 
 Invités : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC
 
