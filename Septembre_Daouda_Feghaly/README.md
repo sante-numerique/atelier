@@ -17,7 +17,7 @@ Voici quelques instructions pour ce premier atelier.
 2. Si vous voulez utiliser un notebook google colab comme nous le feront pendant l’atelier, il vous faudra une adresse gmail active. Vous pouvez alors simplement vous identifier (https://colab.research.google.com/notebooks/intro.ipynb). <br/>  
       *Notez que la version gratuite de google colab ne vous permet pas de conserver vos environnements actifs plus de 20h. Cela signifie que dès que vous fermez votre notebook ou que votre session est interrompue, vous perdez les installations qui y sont associées. Vous devrez donc procéder à une nouvelle installation de PyGeno lors de votre reconnexion.*
  
-Que vous ayez adopté une solution locale ou en ligne, l’utilisation de PyGeno nécessite de télécharger un génome (ici le génome humain) et les annotations qui y sont associées. Ce processus prend habituellement 20 mn et occupe un espace disque de quelques GigaBases.
+Que vous ayez adopté une solution locale ou en ligne, l’utilisation de PyGeno nécessite de télécharger un génome (ici le génome humain) et les annotations qui y sont associées. Ce processus prend habituellement 20 mn (> 3Gb d'espace disque est nécessaire).
  
 L’atelier débutant par une présentation de 30mn, vous aurez le temps de faire l’installation de PyGeno pendant cette introduction. Pour cela, vous devrez d’abord procéder à l’installation du package (alternatives à pip, voir https://github.com/tariqdaouda/pyGeno):
  
