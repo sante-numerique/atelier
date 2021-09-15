@@ -7,7 +7,7 @@ Automne 2021
 
 1. 16 septembre 2021 - Invités : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC <br />   
     
-2. 14 octobre 2021 - Invités : *Prof. Jian Tang* <br />   
+2. 14 octobre 2021 - Invités : *Prof. Jian Tang*, HEC Montréal <br />   
     
 3. 18 novembre 2021 - Invités : *Prof. Julien Cohen-Adad*, Polytechnique Montréal <br />   
     
@@ -25,7 +25,7 @@ Fall 2021
 
 1. September 16, 2021 -     <tab id=t1>Guests : *Tariq Daouda* CEO Bluwr, *Albert Feghaly* IRIC <br />   
     
-2. Octobre 14, 2021 - <tab to=t1>Guests : *Prof. Jian Tang* <br />   
+2. Octobre 14, 2021 - <tab to=t1>Guests : *Prof. Jian Tang*, HEC Montréal <br />   
     
 3. Novembre 18, 2021 - <tab to=t1>Guests : *Prof. Julien Cohen-Adad*, Polytechnique Montreal <br />   
     
