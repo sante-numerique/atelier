@@ -1,18 +1,21 @@
 
-Le Consortium Santé Numérique et IVADO offrent une série d'ateliers Code@santé. Ces ateliers ont pour but de favoriser le partage de connaissances, l'utilisation et la découverte de modules et de « packages » utiles à la communauté en santé numérique.
+## Automne 2021 - Atelier # 2 - 14 octobre 2021
 
-Invités : *Prof. Jian Tang*, HEC, MILA
+*(English version will follow)*
 
-Titre de l'atelier : à venir
+Invités : *Jian Tang* HEC, MILA
 
-Biographie de  : à venir
+Titre de l'atelier : 
+
+## Instructions :
+
 
 -------------------------------------------------------------------------------
 
-The Digital Health Consortium and IVADO are offering a series of Code @ santé workshops. These workshops promote knowledge sharing, use and discovery of modules and “packages” useful to the digital health community.
+## Fall 2021 - Workshop # 2 - October 14, 2021
 
-Guests :  *Prof. Jian Tang*, HEC, MILA
+Guests :  *Jian Tang* HEC, MILA
 
-Title of the workshop: à venir
+Title of the workshop: 
 
-Biography of : à venir
+## Instructions :
