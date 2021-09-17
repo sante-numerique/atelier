@@ -1,18 +1,19 @@
 
-Le Consortium Santé Numérique et IVADO offrent une série d'ateliers Code@santé. Ces ateliers ont pour but de favoriser le partage de connaissances, l'utilisation et la découverte de modules et de « packages » utiles à la communauté en santé numérique.
+## Automne 2021 - Atelier # 4 - 9 décembre 2021
 
-Invités : 
+*(English version will follow)*
 
-Titre de l'atelier :
+Invités : *Pierre Bellec* 
 
-Biographie de  : 
+Titre de l'atelier : 
 
+## Instructions :
 -------------------------------------------------------------------------------
 
-The Digital Health Consortium and IVADO are offering a series of Code @ santé workshops. These workshops promote knowledge sharing, use and discovery of modules and “packages” useful to the digital health community.
+## Fall 2021 - Workshop # 4 - December 9, 2021
 
-Guests :  
+Guests :  *Pierre Bellec* 
 
 Title of the workshop: 
 
-Biography of : 
+## Instructions :
