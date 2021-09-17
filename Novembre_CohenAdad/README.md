@@ -1,18 +1,19 @@
 
-Le Consortium Santé Numérique et IVADO offrent une série d'ateliers Code@santé. Ces ateliers ont pour but de favoriser le partage de connaissances, l'utilisation et la découverte de modules et de « packages » utiles à la communauté en santé numérique.
+## Automne 2021 - Atelier # 3 - 18 novembre 2021
 
-Invités : *Prof. Julien Cohen-Adad*, Polytechnique Montréal
+*(English version will follow)*
 
-Titre de l'atelier : À venir
+Invités : *Julien Cohen-Adad* Polytechnique Montréal
 
-Biographie de  : À venir
+Titre de l'atelier : 
 
+## Instructions :
 -------------------------------------------------------------------------------
 
-The Digital Health Consortium and IVADO are offering a series of Code @ santé workshops. These workshops promote knowledge sharing, use and discovery of modules and “packages” useful to the digital health community.
+## Fall 2021 - Workshop # 3 - November 18, 2021
 
-Guests :  *Prof. Julien Cohen-Adad*, Polytechnique Montréal
+Guests :  *Julien Cohen-Adad* Polytechnique Montreal
 
-Title of the workshop: À venir
+Title of the workshop: 
 
-Biography of : À venir
+## Instructions :
