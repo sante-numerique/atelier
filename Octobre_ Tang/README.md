@@ -31,8 +31,8 @@ Il vous faudra une adresse gmail active. Vous pouvez alors simplement vous ident
 Nous aborderons deux composantes de TorchDrug qui correspondent à deux notebooks. Dans chacun d’entre eux, quelques lignes de commandes sont volontairement manquantes et seront complétées pendant la session de code. 
 
 1)	Les représentations moléculaires pré-entrainées :  
-Contexte : TorchDrug-Website_Pretrain_molecular_representations
-Notebook Colab : Google-Colab_Pretrain_molecular_representations
+Contexte : TorchDrug-Website_Pretrain_molecular_representations: https://torchdrug.ai/docs/tutorials/pretrain
+Notebook Colab : Google-Colab_Pretrain_molecular_representations: https://colab.research.google.com/drive/1jCCQYGq5ladDgysN3fGFmNMr_9-hEb_L
 
 2)	Conception de molécules de novo et recherche en faisceau:
 Contexte : TorchDrug-Website_De_novo_design
@@ -79,8 +79,8 @@ First, you have to create a gmail address if you don’t have one.  Then, you ha
 Please be aware that some some lines are missing. This is intentional and will be filled by the participants during the presentation. The hand-on part of this tutorial includes two Colab notebooks.
 
 1) Pretrain molecular representations
-Background : TorchDrug-Website_Pretrain_molecular_representations
-Colab notebook : Google-Colab_Pretrain_molecular_representations
+Background : TorchDrug-Website_Pretrain_molecular_representations: https://torchdrug.ai/docs/tutorials/pretrain
+Colab notebook : Google-Colab_Pretrain_molecular_representations: https://colab.research.google.com/drive/1jCCQYGq5ladDgysN3fGFmNMr_9-hEb_L
 
 2) De novo molecule design & beam search:
 Background : TorchDrug-Website_De_novo_design
