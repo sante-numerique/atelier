@@ -35,8 +35,8 @@ Contexte : TorchDrug-Website_Pretrain_molecular_representations: https://torchdr
 Notebook Colab : Google-Colab_Pretrain_molecular_representations: https://colab.research.google.com/drive/1jCCQYGq5ladDgysN3fGFmNMr_9-hEb_L
 
 2)	Conception de molécules de novo et recherche en faisceau:
-Contexte : TorchDrug-Website_De_novo_design
-Notebook Colab : Google-Colab_De_novo_molecule_design
+Contexte : TorchDrug-Website_De_novo_design: https://torchdrug.ai/docs/tutorials/generation.html
+Notebook Colab : Google-Colab_De_novo_molecule_design: https://colab.research.google.com/drive/1g0fjyZ8g3JAtMuv83DV9jjqxOd0IY5s4
 
 ### Informations Supplémentaires
 Quelques sources utiles pour comprendre pourquoi et comment TorchDrug a été développé dans un contexte de découverte de médicaments : 
@@ -83,8 +83,8 @@ Background : TorchDrug-Website_Pretrain_molecular_representations: https://torch
 Colab notebook : Google-Colab_Pretrain_molecular_representations: https://colab.research.google.com/drive/1jCCQYGq5ladDgysN3fGFmNMr_9-hEb_L
 
 2) De novo molecule design & beam search:
-Background : TorchDrug-Website_De_novo_design
-Colab notebook: Google-Colab_De_novo_molecule_design
+Background : TorchDrug-Website_De_novo_design: https://torchdrug.ai/docs/tutorials/generation.html
+Colab notebook: Google-Colab_De_novo_molecule_design: https://colab.research.google.com/drive/1g0fjyZ8g3JAtMuv83DV9jjqxOd0IY5s4
 
 ### Supplemental Information
 Some useful resources to better understand why and how TorchDrug was developed in the context of drug design  : 
