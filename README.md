@@ -18,7 +18,7 @@ Automne 2021
     
 3. 18 novembre 2021 - Invités : *Prof. Julien Cohen-Adad*, Polytechnique Montréal <br />   
     
-4. 9 décembre 2021  Invités : *Prof. Pierre Bellec* <br />   
+4. 9 décembre 2021  Invités : *Prof. Pierre Bellec*, Université de Montréal <br />   
 
 Pour toutes questions : code_at_sante@ivado.ca
 
@@ -38,6 +38,6 @@ Fall 2021
     
 3. Novembre 18, 2021 - <tab to=t1>Guests : *Prof. Julien Cohen-Adad*, Polytechnique Montreal <br />   
     
-4. December 9, 2021  - <tab to=t1>Guests : *Prof. Pierre Bellec* <br />   
+4. December 9, 2021  - <tab to=t1>Guests : *Prof. Pierre Bellec*, Montreal University <br />   
 
 For questions : code_at_sante@ivado.ca
