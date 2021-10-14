@@ -32,10 +32,12 @@ Nous aborderons deux composantes de TorchDrug qui correspondent à deux notebook
 
 1)	Les représentations moléculaires pré-entrainées :  
 Contexte : TorchDrug-Website_Pretrain_molecular_representations: https://torchdrug.ai/docs/tutorials/pretrain
+
 Notebook Colab : Google-Colab_Pretrain_molecular_representations: https://colab.research.google.com/drive/1jCCQYGq5ladDgysN3fGFmNMr_9-hEb_L
 
 2)	Conception de molécules de novo et recherche en faisceau:
 Contexte : TorchDrug-Website_De_novo_design: https://torchdrug.ai/docs/tutorials/generation.html
+
 Notebook Colab : Google-Colab_De_novo_molecule_design: https://colab.research.google.com/drive/1g0fjyZ8g3JAtMuv83DV9jjqxOd0IY5s4
 
 ### Informations Supplémentaires
@@ -80,10 +82,12 @@ Please be aware that some some lines are missing. This is intentional and will b
 
 1) Pretrain molecular representations
 Background : TorchDrug-Website_Pretrain_molecular_representations: https://torchdrug.ai/docs/tutorials/pretrain
+
 Colab notebook : Google-Colab_Pretrain_molecular_representations: https://colab.research.google.com/drive/1jCCQYGq5ladDgysN3fGFmNMr_9-hEb_L
 
 2) De novo molecule design & beam search:
 Background : TorchDrug-Website_De_novo_design: https://torchdrug.ai/docs/tutorials/generation.html
+
 Colab notebook: Google-Colab_De_novo_molecule_design: https://colab.research.google.com/drive/1g0fjyZ8g3JAtMuv83DV9jjqxOd0IY5s4
 
 ### Supplemental Information
