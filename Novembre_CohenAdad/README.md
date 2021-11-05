@@ -5,7 +5,7 @@
 
 Invités : *Julien Cohen-Adad* Polytechnique Montréal
 
-Titre de l'atelier : 
+Titre de l'atelier : Un cadre pour l'analyse d'images médicales avec apprentissage profond
 
 ## Instructions :
 -------------------------------------------------------------------------------
