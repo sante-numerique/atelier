@@ -26,6 +26,7 @@ Je suis un étudiant au doctorat au laboratoire NeuroPoly de Polytechnique Montr
 
 Ma thèse de maîtrise portait sur la segmentation tridimensionnelle de colonnes vertébrales scoliotiques à partir de volumes de résonance magnétique en utilisant des techniques de modélisation générative profonde pour la synthèse non supervisée et l'estimation bayésienne de l'incertitude dans des contextes d'apprentissage non supervisé. Mon objectif plus large est de rendre les modèles d'apprentissage profond plus interprétables et explicables pour leur déploiement dans des contextes cliniques réels.
 
+## Instructions: à venir
 
 -------------------------------------------------------------------------------
 
@@ -34,5 +35,7 @@ Ma thèse de maîtrise portait sur la segmentation tridimensionnelle de colonnes
 Guests :  *Julien Cohen-Adad* Polytechnique Montreal
 
 Title of the workshop: 
+
+## Resume:
 
 ## Instructions :
